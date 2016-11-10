@@ -1,4 +1,5 @@
 ## revreaddy
+### This project is not maintained. I strongly recommend https://github.com/readdy/readdy
 
 A particle based reaction-diffusion simulation with a
 reversible integrator, which obeys detailed balance.
